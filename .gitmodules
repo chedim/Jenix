@@ -1,3 +1,3 @@
 [submodule "web"]
-	path = web
+	path = resources/web/
 	url = git@github.com:chedim/Jendri.git
