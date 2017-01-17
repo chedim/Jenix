@@ -1,0 +1,4 @@
+{
+  "jendri.static_server[root]": "/Users/chedim/Java Projects/Jendri/resources/web",
+  "jendri.app_server[default_interface]": "/interfaces/chipchirip"
+}
